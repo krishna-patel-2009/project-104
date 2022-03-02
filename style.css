@@ -1,0 +1,29 @@
+body
+{
+    color:rgb(0, 0, 0);
+    background-color: rgb(250, 66, 66);
+}
+.heading
+{
+    width: 50%;
+    font-size: 22px;
+
+}
+.name_of_object
+{
+    color: rgb(27, 219, 20);
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name
+{
+    color: antiquewhite;
+}
+#result_object_accuracy
+{
+    color: antiquewhite;
+}
